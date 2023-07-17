@@ -3,7 +3,6 @@
 
 This Programs are the solution of the below Question
 
-## Color Reference
 
 | Q. No.   | Questions                                                                |
 | ------| ------------------------------------------------------------------ |
